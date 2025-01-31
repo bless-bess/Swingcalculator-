@@ -1,2 +1,3 @@
-# Swingcalculator-
-Calculator module made with Java(GUI Included)
+NAME:Blessing Golnung
+MATRIC NO:U23CYS1054
+DEPT:Cyber Security 
